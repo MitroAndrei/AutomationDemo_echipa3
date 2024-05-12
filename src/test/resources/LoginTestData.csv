@@ -1,0 +1,4 @@
+username,password,expectedOutput
+anas,anas,Welcome anas
+mitro,mitro,User does not exist
+anas,wrongpass,Wrong password
